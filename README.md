@@ -1,8 +1,9 @@
 # Proculo
 
-> Yo me llamo Proculo,
-No termino en ano porque soy muy especial.
-*La Sonora Dinamita - Los Hijos de Don Genaro*
+> Yo me llamo Próculo,
+> No termino en ano porque soy muy especial.
+>
+> *La Sonora Dinamita - Los Hijos de Don Genaro*
 
 ## Installation
 
