@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+        "features": [
+        { 
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.148685,
+                41.393455
+                    ]
+            },
+            "properties": {
+                "Proculo": "Here I am, feeling special!",
+                "marker-size": "large",
+                "marker-color": "#EE7600",
+                "marker-symbol": "harbor"
+            }
+        }
+    ]
+}
+
